@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "007643dce560523f679624cf7ecebb9254616701db3c802b1f8335dc479491a2"
+build_start_time: [1695643251, 522991000]
+build_end_time: [1695643252, 130991000]
+inputs:
+  "/Users/hamzaalmass/Desktop/MyAppTest/MyAppTestUITests/MyAppTestUITests.swift": [1695631859, 327607148]
+  "/Users/hamzaalmass/Desktop/MyAppTest/MyAppTestUITests/MyAppTestUITestsLaunchTests.swift": [1695631859, 329606629]
