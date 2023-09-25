@@ -26,6 +26,7 @@ class ViewController: UIViewController {
         Crashes.generateTestCrash()
        // Analytics.trackEvent("Update button tapped")
         // Added comment
+        // Added comment to the feature 1
     }
     
 }
