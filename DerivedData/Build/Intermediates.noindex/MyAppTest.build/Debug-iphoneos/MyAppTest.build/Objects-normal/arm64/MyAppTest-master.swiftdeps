@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "6620c5005402b6a49f980db1ad7d84c6f13cc034f1289bcc2e67e280e88d0855"
+build_start_time: [1695643192, 337744000]
+build_end_time: [1695643251, 343255000]
+inputs:
+  "/Users/hamzaalmass/Desktop/MyAppTest/MyAppTest/AppDelegate.swift": [1695641016, 305971647]
+  "/Users/hamzaalmass/Desktop/MyAppTest/MyAppTest/SceneDelegate.swift": [1695631858, 197186322]
+  "/Users/hamzaalmass/Desktop/MyAppTest/MyAppTest/ViewController.swift": [1695642599, 637603723]
