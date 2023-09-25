@@ -1,0 +1,16 @@
+Target dependency graph (7 targets)
+AppCenter in Pods, no dependencies
+Pods-MyAppTest in Pods, depends on:
+AppCenter in Pods (explicit)
+MyAppTest in MyAppTest, depends on:
+Pods-MyAppTest in Pods (implicit dependency via file 'Pods_MyAppTest.framework' in build phase 'Link Binary')
+Pods-MyAppTestTests in Pods, depends on:
+Pods-MyAppTest in Pods (explicit)
+MyAppTestTests in MyAppTest, depends on:
+MyAppTest in MyAppTest (explicit)
+Pods-MyAppTestTests in Pods (implicit dependency via file 'Pods_MyAppTestTests.framework' in build phase 'Link Binary')
+Pods-MyAppTest-MyAppTestUITests in Pods, depends on:
+AppCenter in Pods (explicit)
+MyAppTestUITests in MyAppTest, depends on:
+MyAppTest in MyAppTest (explicit)
+Pods-MyAppTest-MyAppTestUITests in Pods (implicit dependency via file 'Pods_MyAppTest_MyAppTestUITests.framework' in build phase 'Link Binary')
